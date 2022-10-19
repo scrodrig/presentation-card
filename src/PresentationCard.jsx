@@ -2,7 +2,7 @@ import avatarImage from './assets/avatar.png'
 import './presentationCard.css'
 
 function PresentationCard(){
-    let name = 'Schubert'
+    let name = 'Centavito'
     return(
         <div className="presentation-card">
             <img src={avatarImage} alt='avatar' className='card-avatar'></img>
